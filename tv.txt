@@ -13,7 +13,7 @@ TVGS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 
 油管新聞,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc&ab_channel=TVBSNEWS
+TVGGS新聞,https://www.youtube.com/live/m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
